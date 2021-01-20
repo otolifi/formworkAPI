@@ -1,0 +1,22 @@
+{
+  "name": "formworkapi",
+  "version": "1.0.0",
+  "description": "API with functionalities for formwork design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otolifi/formworkAPI.git"
+  },
+  "keywords": [
+    "formwork"
+  ],
+  "author": "Otoniel de Lima Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otolifi/formworkAPI/issues"
+  },
+  "homepage": "https://github.com/otolifi/formworkAPI#readme"
+}
